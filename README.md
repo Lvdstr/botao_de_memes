@@ -1,4 +1,4 @@
-<div align = "center">
+<div align="center">
  ![botao_de_memes](https://github.com/Lvdstr/Imagens/blob/main/Play.png)
 </div>
 <h1>(12/03/2024)</h1>
