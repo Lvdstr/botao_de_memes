@@ -1,4 +1,6 @@
-![botao_de_memes](https://github.com/Lvdstr/Imagens/blob/main/Play.png)
+<div align = "center">
+ ![botao_de_memes](https://github.com/Lvdstr/Imagens/blob/main/Play.png)
+</div>
 <h1>(12/03/2024)</h1>
 
 subi o botao de memes para o github para poder ter um melhor controle sobre o desenvolvimento desse app e de quebra melhorar e me aocstumar a usar o github(até pq to cansado de fazer 
