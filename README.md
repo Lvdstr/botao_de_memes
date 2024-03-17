@@ -18,5 +18,7 @@ oq o app tem até agora:<br/>
 
 <h1>oq desejo adicionar futuramente</h1>
 - adiciomar dois icones para cada botão:um de play enquanto o botão não foi ativado,e um de pausa enquanto o botão esta tocando para quando ele for clicado novamente pare o audio e ajuste o icone para o primeiro novamente
+
 - melhorar as cores de background do tema claro e escuro
+
 - adiconar novas funcionalidades
