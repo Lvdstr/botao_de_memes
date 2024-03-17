@@ -10,26 +10,13 @@ modificações no app e acabar esquecendo disso e dps mudar de volta ao que esta
 ![bttheme1](https://github.com/Lvdstr/Imagens/blob/ce0cde59c0e5831b53eff0ed9686b9e37fa19b12/light%20theme.jpg)
 ![bttheme2](https://github.com/Lvdstr/Imagens/blob/ce0cde59c0e5831b53eff0ed9686b9e37fa19b12/dark%20theme.jpg)
 
-<h1>oq desejo adicionar futuramente</h1>
-<ul>
- <li>adiciomar dois icones para cada botão:um de play enquanto o botão não foi ativado,e um de pausa enquanto o botão esta tocando para quando ele for clicado novamente pare o audio e ajuste o icone para o primeiro novamente</li>
- <li>melhorar as cores de background do tema claro e escuro</li>
- <li>adiconar novas funcionalidades</li>
-</ul>
-
 oq o app tem até agora:<br/>
-<ol>
- <li>
-  tema claro e escuro
- </li>
-<li>
-  dia e hora
-</li>
-<li>
-    botão de configurações que ao ser clicado exibe três funções diferentes:exibir cliques,zerar contador,repetir audios
-</li>
-  <li>
-    os botões que tocam alguns audios de memes
-  </li>
-</ol>
+1. tema claro e escuro
+3. botão de configurações que ao ser clicado exibe três funções:exibir a contagem de cliques,zerar o contador de cliques,repetir os audios de um botão de memes
+4. os botões que tocam alguns audios de memes
 
+
+<h1>oq desejo adicionar futuramente</h1>
+- adiciomar dois icones para cada botão:um de play enquanto o botão não foi ativado,e um de pausa enquanto o botão esta tocando para quando ele for clicado novamente pare o audio e ajuste o icone para o primeiro novamente
+- melhorar as cores de background do tema claro e escuro
+- adiconar novas funcionalidades
