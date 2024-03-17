@@ -14,6 +14,7 @@ modificações no app e acabar esquecendo disso e dps mudar de volta ao que esta
 </ul>
 
 ![bttheme1](https://github.com/Lvdstr/Imagens/blob/ce0cde59c0e5831b53eff0ed9686b9e37fa19b12/light%20theme.jpg)
+![bttheme2](https://github.com/Lvdstr/Imagens/blob/ce0cde59c0e5831b53eff0ed9686b9e37fa19b12/dark%20theme.jpg)
 
 oq o app tem até agora:<br/>
 <ol>
