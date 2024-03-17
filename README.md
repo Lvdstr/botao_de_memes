@@ -6,15 +6,16 @@ modificações no app e acabar esquecendo disso e dps mudar de volta ao que esta
 <h1>onde eu quero chegar com esse app?</h1>
 <h2>bom o botão de memes é baseado em um site/aplicativo que ja existe com basicamente o memso propósito,mas com mais funções e memes doq no meu,e apesar do meu app ser uma "cópia barata" gosto desse app e é divertido "programar" ele, então continuo fazendo ele😁</h2>
 
+## visual atual do app nos temas "escuro e claro"
+![bttheme1](https://github.com/Lvdstr/Imagens/blob/ce0cde59c0e5831b53eff0ed9686b9e37fa19b12/light%20theme.jpg)
+![bttheme2](https://github.com/Lvdstr/Imagens/blob/ce0cde59c0e5831b53eff0ed9686b9e37fa19b12/dark%20theme.jpg)
+
 <h1>oq desejo adicionar futuramente</h1>
 <ul>
  <li>adiciomar dois icones para cada botão:um de play enquanto o botão não foi ativado,e um de pausa enquanto o botão esta tocando para quando ele for clicado novamente pare o audio e ajuste o icone para o primeiro novamente</li>
  <li>melhorar as cores de background do tema claro e escuro</li>
  <li>adiconar novas funcionalidades</li>
 </ul>
-
-![bttheme1](https://github.com/Lvdstr/Imagens/blob/ce0cde59c0e5831b53eff0ed9686b9e37fa19b12/light%20theme.jpg)
-![bttheme2](https://github.com/Lvdstr/Imagens/blob/ce0cde59c0e5831b53eff0ed9686b9e37fa19b12/dark%20theme.jpg)
 
 oq o app tem até agora:<br/>
 <ol>
