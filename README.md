@@ -12,7 +12,8 @@ modificações no app e acabar esquecendo disso e dps mudar de volta ao que esta
  <li>melhorar as cores de background do tema claro e escuro</li>
  <li>adiconar novas funcionalidades</li>
 </ul>
-
+![button_theme
+(https://github.com/Lvdstr/Imagens/blob/ce0cde59c0e5831b53eff0ed9686b9e37fa19b12/light%20theme.jpg)
 
 
 oq o app tem até agora:<br/>
