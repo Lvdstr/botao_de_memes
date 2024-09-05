@@ -7,17 +7,16 @@ O botão de memes é um projeto que eu criei apenas para testar minhas habilidad
 
 espero que o botãozin se torne o meu primeiro app feito de verdade, ainda não sei como eu faria pra lançar ele na play store mas isso não algo realmente importante, aquilo que realmente importa é criar um aplicativo de "verdade".
 
-**15:59 26-05-2024**
-atualmente o botão de memes virou meu "<mark class="hltr-r">"testador de recursos"</mark>, tudo no mit que eu nunca testei antes eu testo ou no botão de memes ou em algum projeto vazio.
+atualmente o botão de memes virou meu **testador de recursos**, tudo no mit que eu nunca testei antes eu testo ou no botão de memes ou em algum projeto vazio.
 
 hj eu achei que tinha deletado ele,eu tinha entrado nele pra começar a editar alguma coisa aqui e ali e colocar mais memes aí eu fui duplicar uma organização e ela bugou todo o app, tinha esquecido que isso acontecia mas por sorte não era o botão de memes que eu estava fazendo edições e sim a primeira versão que estava servido de base pra mim fazer algumas coisas como pegar as funções que eu já tinha feito lá, agora que foi deletado vou refazer elas de uma forma melhor
 ### Objetivos principais
 o objetivo do botão de memes era testar minhas capacidades em relação a criação de um projeto próprio dentro da plataforma de desenvolvimento de aplicativos mit app inventor, ele foi criado encima da ideia do myinstants mas só depois que meu professor disse que ele não era um projeto valido pois ele tinha pedido um aplicativo que tocava sons de animais e eu acabei criando esse app kkk
 
 ## Versões
-### primeira versão oficial do app:
+### primeira versão do app:
 
-Na primeira versão oficial do app ele apresenta as seguintes funções:
+Na primeira versão do app ele apresenta as seguintes funções:
 1. Tema claro e escuro
 2. Exibição formatada de dia/mês/ano e hora
 3. Configurações para exibir a quantidade de cliques e zerar a contagem
@@ -28,21 +27,25 @@ O app tem um design e layout bem simples mas levando em conta a proposta do app 
 blocos do projeto
 ![v1](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDEMemesv1.png)
 
-### segunda versão oficial do app:
+### segunda versão do app:
 blocos do projeto
-![[source/botaoDeMemesV2.png]]
+![v2](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDEMemesv2.png)
 
-### terceira versão oficial do app: versão extendida
+### terceira versão do app: versão extendida
+![v3](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDEMemesv3.png)
 
-22-07-2024
-![[source/botaoDeMemesv3.png]]
+### oq atualizei/mudei:
+1. refiz todos os blocos do app e diminui pela metade a quantidade de blocos
+2. diminui a quantidade de tocadores de 24 tocadores para cada botão para apenas 1 para todos
+3. modularizei as partes repetitivas do código pra apenas uma função com uma verificação de qual botão chamou a função e realizar uma função para aquele botão
+4. retirei a função de notificações de cliques pois não tinha muito utilidade ou necessidade
+5. removi a função de tema dia e noite
 
-oq atualizei:
-- [x] refiz todos os blocos do app e diminui pela metade a quantidade de blocos
-- [x] diminui a quantidade de tocadores de 24 tocadores para cada botão para apenas 1 para todos
-- [x] modularizei as partes repetitivas do código pra apenas uma função com uma verificação de qual botão chamou a função e realizar uma função para aquele botão
-- [x] retirei a função de notificações de cliques pois não tinha muito utilidade ou necessidade
+## quarta versão do app
+![v4](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDEMemesv4.png)
 
+### oq atualizei/mudei:
+1. adicionei uma função para definir um nome de usuario
 extensões
 coloquei uma função de notificação bonitinha quando o app é iniciado
 
