@@ -1,4 +1,4 @@
-![botão_de_meme](https://github.com/Lvdstr/Imagens/blob/052eb0a6c69326fbfcb9c67d3d88ea5ab7b74789/Play.png)
+![botão_de_meme](https://github.com/Lvdstr/botao_de_memes/blob/main/Play.png)
 # botão de memes
 ## o que é 
 o botão de memes é um aplicativo que fiz durante meu segundo módulo do curso de informática para internet nas aulas de desenvolvimento de aplicativos móveis, ele é um app totalmente feito sem grandes intenções ou um propósito complexo é só um app onde são tocados sons de alguns memes famosos na internet 
