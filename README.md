@@ -42,7 +42,7 @@ blocos do projeto
 5. removi a função de tema dia e noite
 
 ## quarta versão do app
-![v4](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDEMemesv4.png)
+![v4](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDeMemesv4.png)
 
 ### oq atualizei/mudei:
 1. adicionei uma função para definir um nome de usuario
