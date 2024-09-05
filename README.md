@@ -49,4 +49,5 @@ blocos do projeto
 extensões
 coloquei uma função de notificação bonitinha quando o app é iniciado
 
+## extensões
 [notification](https://community.appinventor.mit.edu/t/toastnotification-toasts-with-ids-event/119779)
