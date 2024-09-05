@@ -32,7 +32,7 @@ blocos do projeto
 ![v2](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDeMemesV2.png)
 
 ### terceira versão do app: versão extendida
-![v3](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDEMemesv3.png)
+![v3](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDeMemesv3.png)
 
 ### oq atualizei/mudei:
 1. refiz todos os blocos do app e diminui pela metade a quantidade de blocos
