@@ -29,7 +29,7 @@ blocos do projeto
 
 ### segunda versão do app:
 blocos do projeto
-![v2](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDEMemesv2.png)
+![v2](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDeMemesV2.png)
 
 ### terceira versão do app: versão extendida
 ![v3](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDEMemesv3.png)
