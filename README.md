@@ -50,5 +50,5 @@ extensões
 coloquei uma função de notificação bonitinha quando o app é iniciado
 
 ## extensões
-extensão para uma notificação mais "bonita" que aparece no parte inferior da tela junto com o icone do aplicativo
+extensão para uma notificação mais "bonita" que aparece no parte inferior da tela junto com o icone do aplicativo:
 [notification](https://community.appinventor.mit.edu/t/toastnotification-toasts-with-ids-event/119779)
