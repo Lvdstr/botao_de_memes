@@ -26,7 +26,7 @@ Na primeira versão oficial do app ele apresenta as seguintes funções:
 O app tem um design e layout bem simples mas levando em conta a proposta do app em si um super layout complexo com uma puta organização não é extremamente necessário,arrumar o layout é algo importante mas no caso focar em novas funcionalidades e melhorar as atuais é o foco nesse projeto
 
 blocos do projeto
-![[source/botaoDEMemesv1.png]]
+![v1](https://github.com/Lvdstr/botao_de_memes/blob/main/botaoDEMemesv1.png)
 
 ### segunda versão oficial do app:
 blocos do projeto
