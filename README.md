@@ -1,15 +1,13 @@
 ![botão_de_meme](https://github.com/Lvdstr/botao_de_memes/blob/main/Play.png)
 ## O que é
-o botão de memes é um aplicativo que eu criei durante minhas aulas de desenvolvimento de aplicativos na Etec durante o segundo módulo, ele foi algo criado totalmente para diversão pois já existe um site que faz oq o botão de memes faz ou seja ele é uma cópia de algo que já existe que no caso é o [myinstants](https://www.myinstants.com/pt/index/br/?utm_source=webapp&utm_medium=direct&utm_campaign=direct),fora esse pequeno detalhe ele é um app pra passar tempo ouvindo alguns memes.
+o botão de memes é um aplicativo desenvolvido durante a aula de aplicativos na Etec durante o segundo módulo, ele foi algo criado totalmente para diversão pois já existe um site que faz oq o botão de memes faz que no caso é o [myinstants](https://www.myinstants.com/pt/index/br/?utm_source=webapp&utm_medium=direct&utm_campaign=direct),fora esse pequeno detalhe ele é um app pra passar tempo ouvindo alguns memes.
 
 ### Definição
 O botão de memes é um projeto que eu criei apenas para testar minhas habilidades no mit app inventor mas que com o passar do tempo gostei bastante dele e até hj continuo atualizando ele de vez em quando mas espero poder transformar ele em algo realmente grande.
 
-espero que o botãozin se torne o meu primeiro app feito de verdade, ainda não sei como eu faria pra lançar ele na play store mas isso não algo realmente importante, aquilo que realmente importa é criar um aplicativo de "verdade".
 
 atualmente o botão de memes virou meu **testador de recursos**, tudo no mit que eu nunca testei antes eu testo ou no botão de memes ou em algum projeto vazio.
 
-hj eu achei que tinha deletado ele,eu tinha entrado nele pra começar a editar alguma coisa aqui e ali e colocar mais memes aí eu fui duplicar uma organização e ela bugou todo o app, tinha esquecido que isso acontecia mas por sorte não era o botão de memes que eu estava fazendo edições e sim a primeira versão que estava servido de base pra mim fazer algumas coisas como pegar as funções que eu já tinha feito lá, agora que foi deletado vou refazer elas de uma forma melhor
 ### Objetivos principais
 o objetivo do botão de memes era testar minhas capacidades em relação a criação de um projeto próprio dentro da plataforma de desenvolvimento de aplicativos mit app inventor, ele foi criado encima da ideia do myinstants mas só depois que meu professor disse que ele não era um projeto valido pois ele tinha pedido um aplicativo que tocava sons de animais e eu acabei criando esse app kkk
 
