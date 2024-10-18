@@ -11,6 +11,9 @@ atualmente o botão de memes virou meu **testador de recursos**, tudo no mit que
 ### Objetivos principais
 o objetivo do botão de memes era testar minhas capacidades em relação a criação de um projeto próprio dentro da plataforma de desenvolvimento de aplicativos mit app inventor, ele foi criado encima da ideia do myinstants mas só depois que meu professor disse que ele não era um projeto valido pois ele tinha pedido um aplicativo que tocava sons de animais e eu acabei criando esse app kkk
 
+##fluxograma de como funciona o app
+![app_fluxograma](https://github.com/Lvdstr/botao_de_memes/blob/main/IMG_20241017_144839.jpg)
+
 ## Versões
 ### primeira versão do app:
 
